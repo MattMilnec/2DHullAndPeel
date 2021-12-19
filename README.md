@@ -19,3 +19,5 @@ This part of the Readme file is the intructions for user functions of the convex
         Press C to perform the convex hull peel.
 
         To generate new points select R or M
+
+![](capture.PNG)
