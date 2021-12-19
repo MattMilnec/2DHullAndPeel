@@ -20,4 +20,4 @@ This part of the Readme file is the intructions for user functions of the convex
 
         To generate new points select R or M
 
-![](capture.PNG)
+![](Capture.PNG)
