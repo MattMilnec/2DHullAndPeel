@@ -1,0 +1,15 @@
+﻿  Main.cpp
+C:\Source\Repos\2DHullAndPeel\2DHullAndPeel\Source\Functions.h(16,22): warning C4018: '<': signed/unsigned mismatch
+C:\Source\Repos\2DHullAndPeel\2DHullAndPeel\Source\Functions.h(39,20): warning C4018: '<': signed/unsigned mismatch
+C:\Source\Repos\2DHullAndPeel\2DHullAndPeel\Source\Functions.h(46,20): warning C4018: '<': signed/unsigned mismatch
+C:\Source\Repos\2DHullAndPeel\2DHullAndPeel\Source\Functions.h(54,21): warning C4018: '<': signed/unsigned mismatch
+C:\Source\Repos\2DHullAndPeel\2DHullAndPeel\Source\Functions.h(65,23): warning C4018: '<': signed/unsigned mismatch
+C:\Source\Repos\2DHullAndPeel\2DHullAndPeel\Source\Functions.h(118,24): warning C4018: '<': signed/unsigned mismatch
+C:\Source\Repos\2DHullAndPeel\2DHullAndPeel\Source\Functions.h(123,24): warning C4018: '<': signed/unsigned mismatch
+C:\Source\Repos\2DHullAndPeel\2DHullAndPeel\Source\Functions.h(125,25): warning C4018: '<': signed/unsigned mismatch
+C:\Source\Repos\2DHullAndPeel\2DHullAndPeel\Source\Functions.h(157,20): warning C4018: '<': signed/unsigned mismatch
+C:\Source\Repos\2DHullAndPeel\2DHullAndPeel\Source\Input.h(16,22): warning C4018: '<': signed/unsigned mismatch
+C:\Source\Repos\2DHullAndPeel\2DHullAndPeel\Source\Main.cpp(21,20): warning C4018: '<': signed/unsigned mismatch
+C:\Source\Repos\2DHullAndPeel\2DHullAndPeel\Source\Main.cpp(30,21): warning C4018: '<': signed/unsigned mismatch
+C:\Source\Repos\2DHullAndPeel\2DHullAndPeel\Source\Main.cpp(45,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  2DHullAndPeel.vcxproj -> C:\Source\Repos\2DHullAndPeel\Debug\2DHullAndPeel.exe
